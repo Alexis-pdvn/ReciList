@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import fr.iutlens.bucamppodevin.recilist.R
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.recette_tartiflette.*
 
 class PageTartiflette : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

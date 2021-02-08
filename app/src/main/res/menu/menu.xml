@@ -8,11 +8,4 @@
         android:textSize="24sp"
         android:textStyle="bold"/>
 
-    <item
-        android:id="@+id/add_icon"
-        android:icon="@drawable/barnav_addicon"
-        android:title="Ajouter une recette"
-        android:textSize="24sp"
-        android:textStyle="bold"/>
-
 </menu>
